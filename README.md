@@ -1,6 +1,6 @@
 # ScalaJP on github
 
-このリポジトリは、[ScalaJPのgithub pages](https://scalajp.github.com/)のためのものです。
+このリポジトリは、[ScalaJPのgithub pages](http://scalajp.github.com/)のためのものです。
 とりあえず、現時点ではこのリポジトリ自体にはほとんどコンテンツはありません。以下の
 リンクからScalaJP Wiki Pageに行けるので、自由に編集してみてください。
 
